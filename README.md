@@ -2,5 +2,4 @@
 ## group members: 
 
 - Saleem Qureshi
-- Zeeshan Ali
 - Abdullah awais
